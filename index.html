@@ -7,6 +7,11 @@
     <a href="/">Home</a> <a href="/basics/crafting.html">Crafting</a>
   </header>
   <body>
+    <script>
+      if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('sw.js')
+      }
+    </script>    
     <h1>Minecraft Helper</h1>
     <p>Welcome to Minecraft Helper ! This website/PWA will help you to begin with Minecraft. If you already know how to play Minecraft, you can exit this website.</p>
     <h2>Before starting...</h2>
