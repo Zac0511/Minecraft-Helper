@@ -1,5 +1,5 @@
 # Minecraft Helper
-A PWA that helps you to begin with Minecraft, with some important infos to begin.
+A **PWA** (Progressive Web App) that helps you to begin with Minecraft, with some important infos to begin.
 
-## Fuctionnalities
+## Functionnalities
 _NoData_
